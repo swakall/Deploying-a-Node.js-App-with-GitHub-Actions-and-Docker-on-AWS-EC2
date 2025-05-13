@@ -25,7 +25,8 @@ jobs:
               cd Deploying-a-Node.js-App-with-GitHub-Actions-and-Docker-on-AWS-EC2
               git pull origin main
             else
-              git clone https://github.com/swakall/Deploying-a-Node.js-App-with-GitHub-Actions-and-Docker-on-AWS-EC2.git
+              git git clone git@github.com:swakall/Deploying-a-Node.js-App-with-GitHub-Actions-and-Docker-on-AWS-EC2.git
+
               cd Deploying-a-Node.js-App-with-GitHub-Actions-and-Docker-on-AWS-EC2
             fi
 
